@@ -5,20 +5,10 @@
             "title_long_prefix": "Don't hesitate to",
             "title_long": "**Contact** Me"
         },
-        "es": {
-            "title": "Contacto",
-            "title_long_prefix": "No dudes en",
-            "title_long": "**Contácta**me"
-        },
         "fr": {
             "title": "Contact",
             "title_long_prefix": "N'hésitez pas à",
             "title_long": "Me **Contacter**"
-        },
-        "ko": {
-            "title": "연락처",
-            "title_long_prefix": "주저하지 말고",
-            "title_long": "**연락** 주세요"
         }
     },
     "articles": [
@@ -28,9 +18,7 @@
             "config": {},
             "locales": {
                 "en": {"title": "Send me a **message**"},
-                "es": {"title": "Envíame un **mensaje**"},
-                "fr": {"title": "Envoyez-moi un **message**"},
-                "ko": {"title": "**메시지를** 보내주세요"}
+                "fr": {"title": "Envoyez-moi un **message**"}
             },
             "items": null
         },
@@ -42,9 +30,7 @@
             },
             "locales": {
                 "en": {"title": "Or if you **prefer**..."},
-                "es": {"title": "O si **prefieres**..."},
-                "fr": {"title": "Ou si vous **préférez**..."},
-                "ko": {"title": "또는 **원하시면**..."}
+                "fr": {"title": "Ou si vous **préférez**..."}
             },
             "items": [
                 {
@@ -59,15 +45,13 @@
                     },
                     "locales": {
                         "en": {"title": "Phone"},
-                        "es": {"title": "Teléfono"},
-                        "fr": {"title": "Téléphone"},
-                        "ko": {"title": "전화"}
+                        "fr": {"title": "Téléphone"}
                     }
                 },
                 {
-                    "value": "minaaziz@arizona.edu",
+                    "value": "alexis.belfis@gmail.com",
                     "links": [
-                        {"href": "mailto:minaaziz@arizona.edu"}
+                        {"href": "mailto:alexis.belfis@gmail.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -75,14 +59,13 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"title": "E-mail"},
-                        "ko": {"title": "이메일"}
+                        "en": {"title": "E-mail"}
                     }
                 },
                 {
-                    "value": "www.linkedin.com/in/mina-aziz-b4310b208",
+                    "value": "www.linkedin.com/in/alexis-belfis/",
                     "links": [
-                        {"href": "https://www.linkedin.com/in/mina-aziz-b4310b208"}
+                        {"href": "https://www.linkedin.com/in/alexis-belfis-%F0%9F%9B%A1%EF%B8%8F-9b5429193/"}
                     ],
                     "icon": {
                         "img": null,

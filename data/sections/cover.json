@@ -4,31 +4,19 @@
       "title": "Welcome!",
       "title_menu": "About me",
       "title_long_prefix": "Explore my work",
-      "title_long": "**Mina Aziz – Security Analyst**"
-    },
-    "es": {
-      "title": "¡Saludos!",
-      "title_menu": "Sobre mí",
-      "title_long_prefix": "Explora mi trabajo",
-      "title_long": "**Mina Aziz – Analista de Ciberseguridad**"
+      "title_long": "**Alexis BELFIS - Cybersecurity Project Manager**"
     },
     "fr": {
       "title": "Bienvenue !",
       "title_menu": "À propos",
       "title_long_prefix": "Découvrez mon travail",
-      "title_long": "**Mina Aziz – Analyste en Cybersécurité**"
-    },
-    "ko": {
-      "title": "환영합니다!",
-      "title_menu": "소개",
-      "title_long_prefix": "제 작업을 살펴보세요",
-      "title_long": "**Mina Aziz – 사이버 보안 분석가**"
+      "title_long": "**Alexis BELFIS - Chef De Projet Cybersécurité**"
     }
   },
 
   "profile": {
-    "name": "Mina Aziz",
-    "stylizedName": "<strong>Mina **Aziz**</strong>",
+    "name": "Alexis BELFIS",
+    "stylizedName": "<strong>Alexis **BELFIS**</strong>",
     "logoUrl": "images/svg/logo.svg",
     "profilePictureUrl": "images/pictures/avatar.jpg"
   },
@@ -43,13 +31,11 @@
       },
       "locales": {
         "en": {},
-        "es": {},
-        "fr": {},
-        "ko": {}
+        "fr": {}
       },
       "items": [
         {
-          "value": "Seattle, WA",
+          "value": "Val-d'Oise (95), France",
           "links": [
             { "href": null }
           ],
@@ -60,9 +46,9 @@
           }
         },
         {
-          "value": "minaaziz@arizona.edu",
+          "value": "alexis.belfis@gmail.comu",
           "links": [
-            { "href": "mailto:minaaziz@arizona.edu" }
+            { "href": "mailto:alexis.belfis@gmail.comu" }
           ],
           "icon": {
             "img": null,
@@ -71,9 +57,9 @@
           }
         },
         {
-          "value": "@minaaziz9",
+          "value": "@AYPLEX2",
           "links": [
-            { "href": "https://github.com/minaaziz9" }
+            { "href": "https://github.com/AYPLEX2" }
           ],
           "icon": {
             "img": null,
