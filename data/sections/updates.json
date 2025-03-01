@@ -1,0 +1,68 @@
+{
+  "locales": {
+    "en": {
+      "title": "Life recently",
+      "title_menu": "Updates",
+      "title_long_prefix": "Take a look at my",
+      "title_long": "Recent **Updates**"
+    }
+  },
+  "articles": [
+    {
+      "id": "fun_facts",
+      "component": "ArticleServices",
+      "config": {},
+      "locales": {},
+      "items": [
+        {
+          "icon": { "img": null, "fa": "fa-solid fa-network-wired", "faColors": null },
+          "locales": { "en": { "title": "42", "info": "TryHackMe rooms solved" } }
+        },
+        {
+          "icon": { "img": null, "fa": "fa-solid fa-globe", "faColors": null },
+          "locales": { "en": { "title": "05", "info": "States visited" } }
+        },
+        {
+          "icon": { "img": null, "fa": "fa-solid fa-diagram-project", "faColors": null },
+          "locales": { "en": { "title": "08", "info": "Open-source projects" } }
+        },
+        {
+          "icon": { "img": null, "fa": "fa-solid fa-coffee", "faColors": null },
+          "locales": { "en": { "title": "21,937", "info": "Energy drinks consumed" } }
+        }
+      ]
+    },
+    {
+      "id": "updates",
+      "component": "ArticleThread",
+      "config": {},
+      "locales": { "en": { "title": "Life **Updates**" } },
+      "items": [
+        {
+          "dates": { "start": "12/01/2024", "end": null },
+          "locales": { "en": { "title": "INE eJPT Certified", "text": "Earned the eJPT certification, demonstrating foundational skills in ethical hacking and vulnerability assessment." } }
+        },
+        {
+          "dates": { "start": "01/01/2025", "end": null },
+          "locales": { "en": { "title": "Built GitHub Projects", "text": "Developed multiple cybersecurity tools and projects, including Anubis and LLM Security Sandbox." } }
+        },
+        {
+          "dates": { "start": "01/15/2025", "end": null },
+          "locales": { "en": { "title": "Traveled to California", "text": "Explored California, engaging with local cybersecurity communities and attending industry events." } }
+        },
+        {
+          "dates": { "start": "02/01/2025", "end": null },
+          "locales": { "en": { "title": "INE eWPT Certified", "text": "Successfully passed the eWPT certification, validating advanced skills in web penetration testing." } }
+        },
+        {
+          "dates": { "start": "02/15/2025", "end": null },
+          "locales": { "en": { "title": "Refreshed My Portfolio", "text": "Updated my personal portfolio to highlight my latest achievements, projects, and certifications." } }
+        },
+        {
+          "dates": { "start": "02/20/2025", "end": null },
+          "locales": { "en": { "title": "Developed Love for LLM Attacks", "text": "Built an LLM Security Sandbox to test AI model vulnerabilities and prompt injection exploits." } }
+        }
+      ]
+    }
+  ]
+}

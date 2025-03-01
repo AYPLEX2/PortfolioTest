@@ -1,0 +1,204 @@
+{
+  "locales": {
+    "en": {
+      "title": "Welcome!",
+      "title_menu": "About me",
+      "title_long_prefix": "Explore my work",
+      "title_long": "**Mina Aziz – Security Analyst**"
+    },
+    "es": {
+      "title": "¡Saludos!",
+      "title_menu": "Sobre mí",
+      "title_long_prefix": "Explora mi trabajo",
+      "title_long": "**Mina Aziz – Analista de Ciberseguridad**"
+    },
+    "fr": {
+      "title": "Bienvenue !",
+      "title_menu": "À propos",
+      "title_long_prefix": "Découvrez mon travail",
+      "title_long": "**Mina Aziz – Analyste en Cybersécurité**"
+    },
+    "ko": {
+      "title": "환영합니다!",
+      "title_menu": "소개",
+      "title_long_prefix": "제 작업을 살펴보세요",
+      "title_long": "**Mina Aziz – 사이버 보안 분석가**"
+    }
+  },
+
+  "profile": {
+    "name": "Mina Aziz",
+    "stylizedName": "<strong>Mina **Aziz**</strong>",
+    "logoUrl": "images/svg/logo.svg",
+    "profilePictureUrl": "images/pictures/avatar.jpg"
+  },
+
+  "articles": [
+    {
+      "id": "contact_list",
+      "component": "ArticleGrid",
+      "config": {
+        "ignorePaddingTop": true,
+        "format": "inline"
+      },
+      "locales": {
+        "en": {},
+        "es": {},
+        "fr": {},
+        "ko": {}
+      },
+      "items": [
+        {
+          "value": "Seattle, WA",
+          "links": [
+            { "href": null }
+          ],
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-city",
+            "faColors": { "bg": null, "fill": null }
+          }
+        },
+        {
+          "value": "minaaziz@arizona.edu",
+          "links": [
+            { "href": "mailto:minaaziz@arizona.edu" }
+          ],
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-envelope",
+            "faColors": { "bg": null, "fill": null }
+          }
+        },
+        {
+          "value": "@minaaziz9",
+          "links": [
+            { "href": "https://github.com/minaaziz9" }
+          ],
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-github",
+            "faColors": { "bg": null, "fill": null }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "short_description",
+      "component": "ArticleInfoBlock",
+      "config": {},
+      "locales": {
+        "en": {
+          "title": "**A little bit** about me..."
+        }
+      },
+      "items": [
+        {
+          "icon": {
+            "img": "images/svg/logo.svg",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "text": "<p>Welcome to my Cyber Security Portfolio! I'm a Cyber Engineering student seeking internship roles in AppSec, Incident Response, and Cloud Security. Feel free to check my Github, TryHackMe & HackTheBox. </p><p><b>Certifications:</b></p><ul><li>INE Security: Junior Penetration Tester eJPT</li><li>INE Security: Web Application Penetration Tester eWPT</li></ul>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "technical_skills",
+      "component": "ArticleGrid",
+      "config": {
+        "format": "grid"
+      },
+      "locales": {
+        "en": {
+          "title": "Technical **Skills**"
+        }
+      },
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-shield-virus",
+            "faColors": null
+          },
+          "locales": {
+            "en": {
+              "title": "Penetration Testing",
+              "info": "Vulnerability identification & mitigation."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-code",
+            "faColors": null
+          },
+          "locales": {
+            "en": {
+              "title": "Scripting",
+              "info": "Python, Bash, PowerShell automation."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-cloud",
+            "faColors": null
+          },
+          "locales": {
+            "en": {
+              "title": "Cloud Security",
+              "info": "Hands-on with AWS & Azure."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-network-wired",
+            "faColors": null
+          },
+          "locales": {
+            "en": {
+              "title": "Network Analysis",
+              "info": "Threat detection with Wireshark, Splunk."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-database",
+            "faColors": null
+          },
+          "locales": {
+            "en": {
+              "title": "Incident Response",
+              "info": "Containment & forensics post-breach."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-search",
+            "faColors": null
+          },
+          "locales": {
+            "en": {
+              "title": "Web & API Security",
+              "info": "Pentesting Applications Security"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
