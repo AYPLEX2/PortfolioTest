@@ -16,7 +16,7 @@
 
   "profile": {
     "name": "Alexis BELFIS",
-    "stylizedName": "<strong>Alexis **BELFIS**</strong>",
+    "stylizedName": "<strong>Alexis **BELFIS 🛡️**</strong>",
     "logoUrl": "images/svg/logo.svg",
     "profilePictureUrl": "images/pictures/avatar.jpg"
   },
@@ -46,7 +46,7 @@
           }
         },
         {
-          "value": "alexis.belfis@gmail.comu",
+          "value": "alexis.belfis@gmail.com",
           "links": [
             { "href": "mailto:alexis.belfis@gmail.com" }
           ],
