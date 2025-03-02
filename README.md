@@ -1,1 +1,1 @@
-A Personal Portfolio Built with ReactJS , Python Flask for Demos
+Un portefolio professionnel cronstruit en HTML, CSS, ReactJS , Python Flask for Demos
