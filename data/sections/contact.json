@@ -34,21 +34,6 @@
             },
             "items": [
                 {
-                    "value": "+1 (206) 739-1681",
-                    "links": [
-                        {"href": "tel:12067391681"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-phone",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Phone"},
-                        "fr": {"title": "Téléphone"}
-                    }
-                },
-                {
                     "value": "alexis.belfis@gmail.com",
                     "links": [
                         {"href": "mailto:alexis.belfis@gmail.com"}
